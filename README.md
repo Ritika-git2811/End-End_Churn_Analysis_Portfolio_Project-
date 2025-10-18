@@ -14,14 +14,14 @@ Study Churner Profile & Identify Areas for Implementing Marketing Campaigns
 Identify a Method to Predict Future Churners
  
 
-**📊 Key Metrics & Measures**
+**📊 Key Metrics & Measures**:
 Total Customers: 6,418
 Total Churned Customers: 1,732
 New Joiners: 411
 Overall Churn Rate: 27%
 
 
-**🔍 Insights from the Dashboard**
+**🔍 Insights from the Dashboard**:
 1️⃣ Demographics:
 Higher churn among females (35.8%).
 Older age groups (>50 years) show the highest churn rate (~31%).
@@ -41,18 +41,18 @@ Customers without Online Security or Backup churn more frequently — upselling 
 5️⃣ Tenure Group:
 Customers with less than 6 months of tenure show the highest churn rate, indicating that early engagement is key.
 
-**🧠 Business Recommendations**
+**🧠 Business Recommendations**:
 Focus retention efforts on new customers and Month-to-Month subscribers.
 Offer loyalty rewards or bundled service plans for long-term retention.
 Improve digital payment experience and encourage customers to move away from mailed checks.
 Run regional campaigns in high-churn states to understand local challenges.
 
-**⚙️ Tech Stack**
+**⚙️ Tech Stack**:
 SQL / Database: For data extraction, cleaning, and transformation (ETL Process).
 Power BI: For building data model, relationships, and interactive visuals.
 DAX Measures: Used to calculate metrics like Churn Rate, Total Customers, and New Joiners.
 
-**📈 Outcome**
+**📈 Outcome**:
 The dashboard enables stakeholders to:
 ✅ Identify churn-prone customer segments
 ✅ Prioritize retention strategies
